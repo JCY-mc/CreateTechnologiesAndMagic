@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "#forge:dusts/sulfur"
+    ],
+    "resultItems": "thermal:sulfur_dust"
+  }
+]

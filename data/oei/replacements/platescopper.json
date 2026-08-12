@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "#forge:plates/copper"
+    ],
+    "resultItems": "create:copper_sheet"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "matchBlocks": [
+      "#forge:storage_blocks/sulfur"
+    ],
+    "resultBlocks": "thermal:sulfur_block"
+  }
+]

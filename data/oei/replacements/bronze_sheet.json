@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:bronze_plate",
+      "vintage:bronze_sheet"
+    ],
+    "resultItems": "vintage:bronze_sheet"
+  }
+]

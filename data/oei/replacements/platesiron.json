@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "#forge:plates/iron"
+    ],
+    "resultItems": "create:iron_sheet"
+  }
+]

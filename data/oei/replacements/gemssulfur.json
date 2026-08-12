@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "#forge:gems/sulfur"
+    ],
+    "resultItems": "thermal:sulfur"
+  }
+]

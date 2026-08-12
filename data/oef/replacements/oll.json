@@ -1,0 +1,10 @@
+[
+  {
+    "matchFluid": [
+      "createdieselgenerators:crude_oil",
+      "thermal:crude_oil",
+      "ad_astra:oil"
+    ],
+    "resultFluid": "createdieselgenerators:crude_oil"
+  }
+]

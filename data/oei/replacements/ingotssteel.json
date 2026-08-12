@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "#forge:ingots/steel"
+    ],
+    "resultItems": "mekanism:ingot_steel"
+  }
+]

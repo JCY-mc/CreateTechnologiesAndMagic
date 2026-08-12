@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "#forge:plates/gold"
+    ],
+    "resultItems": "create:golden_sheet"
+  }
+]

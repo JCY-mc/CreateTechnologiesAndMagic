@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "mekanism:dust_netherite",
+      "thermal:netherite_dust"
+    ],
+    "resultItems": "mekanism:dust_netherite"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:bronze_ingot",
+      "mekanism:ingot_bronze"
+    ],
+    "resultItems": "thermal:bronze_ingot"
+  }
+]

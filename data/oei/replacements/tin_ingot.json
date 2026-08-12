@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:tin_ingot",
+      "mekanism:ingot_tin"
+    ],
+    "resultItems": "mekanism:ingot_tin"
+  }
+]

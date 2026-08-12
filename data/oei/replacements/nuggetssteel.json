@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "#forge:nuggets/steel"
+    ],
+    "resultItems": "mekanism:nugget_steel"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "#forge:coal_coke"
+    ],
+    "resultItems": "thermal:coal_coke"
+  }
+]

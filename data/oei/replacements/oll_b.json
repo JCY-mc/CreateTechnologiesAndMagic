@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "thermal:crude_oil_bucket",
+      "ad_astra:oil_bucket",
+      "createdieselgenerators:crude_oil_bucket"
+    ],
+    "resultItems": "createdieselgenerators:crude_oil_bucket"
+  }
+]

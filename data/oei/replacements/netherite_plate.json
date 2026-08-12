@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "vintageimprovements:netherite_sheet",
+      "thermal:netherite_plate"
+    ],
+    "resultItems": "vintageimprovements:netherite_sheet"
+  }
+]

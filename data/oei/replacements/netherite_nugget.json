@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:netherite_nugget",
+      "tconstruct:netherite_nugget"
+    ],
+    "resultItems": "thermal:netherite_nugget"
+  }
+]
