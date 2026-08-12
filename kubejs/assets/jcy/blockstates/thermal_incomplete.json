@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "jcy:block/thermal_incomplete"
+        }
+    }
+}

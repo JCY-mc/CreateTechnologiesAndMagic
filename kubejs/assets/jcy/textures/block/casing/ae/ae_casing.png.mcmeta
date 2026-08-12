@@ -1,0 +1,9 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type": "ctm",
+		"textures": [
+			"jcy:block/casing/ae/ae_casing_ctm"
+		]
+	}
+}
