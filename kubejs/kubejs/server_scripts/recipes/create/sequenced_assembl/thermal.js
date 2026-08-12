@@ -1,0 +1,43 @@
+ServerEvents.recipes(event => {
+    const {create, vintage} = event.recipes
+    //机器框架
+    create.sequenced_assembly(
+        [
+            'thermal:machine_frame'
+        ],
+        'thermal:invar_gear',
+        [
+            create.deploying(
+                'jcy:thermal_incomplete',
+                [
+                    'jcy:thermal_incomplete',
+                    'jcy:polyethylene_plate'
+                ]
+            ),
+            create.deploying(
+                'jcy:thermal_incomplete',
+                [
+                    'jcy:thermal_incomplete',
+                    'thermal:invar_plate'
+                ]
+            ),
+            create.filling(
+                'jcy:thermal_incomplete',
+                [
+                    'jcy:thermal_incomplete',
+                    Fluid.of(
+                        'jcy:polyethylene',
+                        25
+                    )
+                ]
+            ),
+            create.deploying(
+                'jcy:thermal_incomplete',
+                [
+                    'jcy:thermal_incomplete',
+                    'create:framed_glass_pane'
+                ]
+            )
+        ]
+    ).transitionalItem('jcy:thermal_incomplete').loops(2)
+})
