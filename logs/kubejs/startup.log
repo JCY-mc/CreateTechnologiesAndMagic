@@ -1,0 +1,27 @@
+[18:04:11] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[18:04:11] [INIT] Loaded plugins:
+[18:04:11] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:04:11] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:04:11] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[18:04:11] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[18:04:11] [INIT] - com.lowdragmc.mbd2.integration.kubejs.MBDKubeJSPlugin
+[18:04:11] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[18:04:11] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[18:04:11] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[18:04:11] [INIT] - dev.latvian.mods.kubejs.immersiveengineering.ImmersiveEngineeringKubeJSPlugin
+[18:04:11] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[18:04:11] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[18:04:11] [INIT] - dev.bluephs.vintage.compat.kubejs.VINTAGEKubeJSPlugin
+[18:04:11] [INIT] - com.xiaoyue.tconstruct_js.plugin.TConJSPlugin
+[18:04:11] [INIT] - com.probejs.ProbeJSPlugin
+[18:04:11] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[18:04:11] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[18:04:13] [INFO] Loaded script startup_scripts:src/blocks.js in 0.123 s
+[18:04:13] [INFO] Loaded script startup_scripts:src/creative_mode_tab.js in 0.001 s
+[18:04:13] [INFO] Loaded script startup_scripts:src/fluid.js in 0.003 s
+[18:04:13] [INFO] Loaded script startup_scripts:src/items.js in 0.001 s
+[18:04:13] [INFO] Loaded script startup_scripts:src/mechanism.js in 0.001 s
+[18:04:13] [INFO] Loaded script startup_scripts:src/prat.js in 0.002 s
+[18:04:13] [INFO] Loaded 6/6 KubeJS startup scripts in 1.625 s with 0 errors and 0 warnings
+[18:04:13] [INFO] src/fluid.js#17: jcy:steam已注册!
+[18:04:13] [INFO] src/fluid.js#17: jcy:sea_water已注册!

@@ -1,0 +1,21 @@
+[18:04:13] [INIT] KubeJS 2001.6.5-build.26; MC 2001 forge
+[18:04:13] [INIT] Loaded plugins:
+[18:04:13] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:04:13] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:04:13] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[18:04:13] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[18:04:13] [INIT] - com.lowdragmc.mbd2.integration.kubejs.MBDKubeJSPlugin
+[18:04:13] [INIT] - dev.latvian.mods.kubejs.thermal.KubeJSThermalPlugin
+[18:04:13] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[18:04:13] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[18:04:13] [INIT] - dev.latvian.mods.kubejs.immersiveengineering.ImmersiveEngineeringKubeJSPlugin
+[18:04:13] [INIT] - dev.latvian.kubejs.mekanism.MekanismKubeJSPlugin
+[18:04:13] [INIT] - dev.bluephs.dgjs.DGJSPlugin
+[18:04:13] [INIT] - dev.bluephs.vintage.compat.kubejs.VINTAGEKubeJSPlugin
+[18:04:13] [INIT] - com.xiaoyue.tconstruct_js.plugin.TConJSPlugin
+[18:04:13] [INIT] - com.probejs.ProbeJSPlugin
+[18:04:13] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[18:04:13] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[18:04:13] [INFO] Loaded script client_scripts:lang/Chinese.js in 0.044 s
+[18:04:13] [INFO] Loaded 1/1 KubeJS client scripts in 0.108 s with 0 errors and 0 warnings
+[18:04:38] [INFO] Client resource reload complete!
